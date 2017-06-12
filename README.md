@@ -10,3 +10,7 @@ HoloLens情報のリンク集です。
  * [HoloMagicians 勉強会 - connpass](https://hololens.connpass.com/)
  
  
+## 項目ごとのリンク
+
+ * [MRDesignLabs](MRDesignLabs/MRDesignLabs.md)
+ 
