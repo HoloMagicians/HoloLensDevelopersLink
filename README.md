@@ -17,4 +17,5 @@ HoloLens情報のリンク集です。
 ## 項目ごとのリンク
 
  * [MRDesignLabs](MRDesignLabs/MRDesignLabs.md)
- 
+ * [Sharing](Sharing/Sharing.md) 
+ * [SpatialMapping](SpatialMapping/SpatialMapping.md)
