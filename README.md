@@ -17,6 +17,7 @@ HoloLens情報のリンク集です。
 ## 項目ごとのリンク
 
  * [MRDesignLabs](MRDesignLabs/MRDesignLabs.md)
- * [Azure Cognitive Services](CognitiveServices/CognitiveServices.md)
+ * [Sharing](Sharing/Sharing.md) 
+ * [SpatialMapping](SpatialMapping/SpatialMapping.md)
  * [Unity For HoloLens](UnityForHoloLens/UnityForHoloLens.md)
- 
+ * [Azure Cognitive Services](CognitiveServices/CognitiveServices.md)
