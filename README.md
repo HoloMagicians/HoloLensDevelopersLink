@@ -21,4 +21,5 @@ HoloLens情報のリンク集です。
  * [SpatialMapping](SpatialMapping/SpatialMapping.md)
  * [Unity For HoloLens](UnityForHoloLens/UnityForHoloLens.md)
  * [Azure Cognitive Services](CognitiveServices/CognitiveServices.md)
+ * [AzureFunctions](AzureFunctions/AzureFunctions.md)
  * [IoT](IoT/IoT.md)
