@@ -10,7 +10,8 @@ Node-REDはハードウェアデバイス/APIおよびオンラインサービ�
  
  * [Device Portal APIでHoloLensの情報や操作をNode\-REDダッシュボードで行うメモ](http://www.1ft-seabass.jp/memo/2017/05/01/hololens-meets-nodered-dashboard/)
  * [HoloLensからNode\-REDを操作して現実のlittleBits Arduinoモジュールを動かすメモ](http://www.1ft-seabass.jp/memo/2017/02/11/hololens_meets_node-red_littlebits/)
- 
+ * [Device Portal APIを使ってNode\-RED経由でHoloLensからアプリを起動させるメモ](http://www.1ft-seabass.jp/memo/2017/06/18/nodered-access-device-portal-api-launch-app/)
+
 ## WebSocket
  
  * [Node\-REDでHoloLensをWebSocket連携して複数オブジェクトを同時操作するメモ](http://www.1ft-seabass.jp/memo/2017/05/25/hololens_websocket_node-red_multiaction/)
